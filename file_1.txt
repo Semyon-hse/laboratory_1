@@ -1,2 +1,3 @@
 add first string: london is the city of Russia.
+6-6=0
 Tell me Denis.
