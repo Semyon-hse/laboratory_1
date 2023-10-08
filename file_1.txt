@@ -1,0 +1,1 @@
+add first string: london is the capital of Russia.
