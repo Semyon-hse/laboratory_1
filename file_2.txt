@@ -1,1 +1,2 @@
-add first string: Hello, world!
+add first string: Hello, people! 
+add second string
